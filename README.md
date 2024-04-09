@@ -13,6 +13,3 @@
 - VSCode
 - SQLite 3
 
-## Лицензия
-
-MIT
